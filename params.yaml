@@ -1,5 +1,5 @@
 prepare:
-  split: 0.5
+  split: 0.9
   seed: 20170428
 
 featurize:
