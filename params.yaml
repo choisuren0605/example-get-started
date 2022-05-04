@@ -1,10 +1,10 @@
 prepare:
-  split: 0.20
+  split: 0.3
   seed: 20170428
 
 featurize:
-  max_features: 1222
-  ngrams: 2
+  max_features: 222
+  ngrams: 5
 
 train:
   seed: 20170428
